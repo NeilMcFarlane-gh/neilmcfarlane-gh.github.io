@@ -23,7 +23,7 @@ author:
   # Biographic information
   avatar           : "profile.png"
   name             : "Neil R. McFarlane"
-  pronouns         :  example: "he/him"  
+  pronouns         :  #example: "he/him"  
   bio              : "Hey! I'm Neil, a final year Ph.D. student working on computational biochemistry and algorithm development at KU Leuven."
   location         : "KU Leuven, Belgium"
   employer         : "KU Leuven"
