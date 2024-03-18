@@ -7,8 +7,6 @@ redirect_from:
   - /about.html
 ---
 
-This website is a work-in-progress...
-
 :sparkles:***Looking for Postdoctoral opportunities from October 2024***:sparkles:
 
 Thanks for visiting my website! I am Neil, a passionate, early-career researcher finishing my Ph.D. in computational chemistry at KU Leuven. Over my time in higher education, I have become proficient in chemical engineering, mathematics, chemistry, biochemistry, bioinformatics, and software development. Throughout my Ph.D., I have leveraged the skills learned from my experiences to take a multidisciplinary approach to problem-solving. 
