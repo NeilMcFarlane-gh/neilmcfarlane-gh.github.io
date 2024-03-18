@@ -1,5 +1,5 @@
 ---
-title: "CECAM Workshop on Hybrid QM/MM"
+title: "CECAM Workshop - Exploring biomolecular reactions with hybrid QM/MM single-ended growing string method"
 collection: talks
 type: "Conference Presentation"
 permalink: /talks/CECAM_2022
