@@ -8,3 +8,4 @@ date: 2022-10-13
 location: "Belgium"
 ---
 
+[More information here](https://crf-chemcys.be/)
