@@ -11,35 +11,32 @@ redirect_from:
 
 Education
 ======
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
-* M.S. in Jekyll, GitHub University, 2014
-* B.S. in GitHub, GitHub University, 2012
+* Ph.D in Computational Chemistry, KU Leuven, 2024 (expected)
+* MSci. in Applied Chemistry & Chemical Engineering, University of Strathclyde, 2020
 
-Work experience
+Professional experience
 ======
-* Spring 2024: Academic Pages Collaborator
-  * Github University
-  * Duties includes: Updates and improvements to template
-  * Supervisor: The Users
+* 06/2018 - 08/2018: Carnegie Scholar, University of Strathclyde
+  * Developed Python software for analysis of chemical reactions in real-time.
+  * Software version management using Git/GitHub.
 
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
+* 06/2017 - 09/2017: Lab Assistant, ANRC, University of Strathclyde
+  * Set up and tested experimental protocols for a challenging problem.
+  * Analysed samples by synchrotron radiation at Diamond Light Source.
 
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
+* 08/2016 - 09/2016: Assistant Lab Technician, ROLEST, University of Strathclyde
+  * Restored high-voltage research lab to working condition.
+  * Performed chemical inventory and COSHH risk assessments.
   
 Skills
 ======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+* Python and bash scripting
+* Backend software development
+* Git/GitHub version management
+* Fortran programming
+* High-performance computing
+* Time management
+* Problem-solving
 
 Publications
 ======
