@@ -5,7 +5,7 @@ permalink: /publication/Chem_Eur_J_2022
 excerpt: 'In this work, we use a combination of computational tools such as molecular dynamics simulations, high-level quantum chemical calculations and hybrid QM/MM methods to investigate the biochemical pathways leading to NO-signalling in humans.'
 date: 2022-06-07
 venue: 'Chemistry - A European Journal'
-paperurl: 'http://academicpages.github.io/files/Chem_Eur_J_2022.pdf'
+paperurl: 'http://NeilMcFarlane-gh.github.io/files/Chem_Eur_J_2022.pdf'
 citation: 'A. M. Rozza, M. Papp, N. R. McFarlane, J. N. Harvey, J. Oláh, <i>Chem. Eur. J.</i>
 <strong>2022</strong>, 28, e202200930'
 ---
