@@ -4,7 +4,7 @@ collection: teaching
 type: "Masters course"
 permalink: /teaching/bioinformatics_course
 venue: "KU Leuven"
-date: 
+date: 2024-03-06
 location: "Leuven, Belgium"
 ---
 
