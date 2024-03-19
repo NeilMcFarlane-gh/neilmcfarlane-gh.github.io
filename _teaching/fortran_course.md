@@ -4,7 +4,7 @@ collection: teaching
 type: "Masters course (B-KUL-G0V32B)"
 permalink: /teaching/fortran_course
 venue: "KU Leuven"
-date: 
+date: 2024-02-26
 location: "Leuven, Belgium"
 ---
 
