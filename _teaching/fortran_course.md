@@ -1,7 +1,7 @@
 ---
-title: "Theoretical Chemistry & Computational Modelling Research Internship - Fortran Course"
+title: "Theoretical Chemistry & Computational Modelling Research Internship - Fortran Course (B-KUL-G0V32B)"
 collection: teaching
-type: "Masters course (B-KUL-G0V32B)"
+type: "Masters course"
 permalink: /teaching/fortran_course
 venue: "KU Leuven"
 date: 2024-02-26
