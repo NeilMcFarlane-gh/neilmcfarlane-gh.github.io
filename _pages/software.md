@@ -3,6 +3,7 @@ permalink: /software/
 title: "Software"
 ---
 
+# Scientific Software
 
 ## QoMMMa
 
@@ -10,6 +11,8 @@ title: "Software"
 
 ## LennardJones-GSM
 [LennardJones-GSM](https://github.com/NeilMcFarlane-gh/LennardJones-GSM) is a work-in-progress computational chemistry code that generates reaction pathways for rearrangements of Lennard-Jones clusters of particles using the growing string method. It is written entirely in Python3.
+
+# Other Software
 
 ## Loot-Island-Scoring
 [Loot-Island-Scoring](https://github.com/NeilMcFarlane-gh/Loot-Island-Scoring) is a work-in-progress Python3 prototype app for scoring a board game. The board game is not so well-known and is called [*Loot Island*](https://boardgamegeek.com/boardgame/235512/loot-island). Unfortunately, the scoring system takes a long time to do by-hand, so this app aims to solve this. The long-term goals are to port the code to JavaScript once the prototype has been finalised and publish to the Android app store.
