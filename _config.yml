@@ -25,10 +25,10 @@ author:
   name             : "Neil R. McFarlane"
   pronouns         :  #example: "he/him"  
   bio              : "Hey! I'm Neil, an early career researcher in the field of computational chemistry and structural biology."
-  location         : "KU Leuven, Belgium"
-  employer         : "KU Leuven"
+  location         : "Belgium"
+  employer         : # "KU Leuven"
   uri              : # URL
-  email            : "neilrory.mcfarlane@kuleuven.be" 
+  email            : "neil.mcfarlane18@gmail.com" 
 
   # Academic websites
   arxiv            : # URL - Update with the correct link to your profile
