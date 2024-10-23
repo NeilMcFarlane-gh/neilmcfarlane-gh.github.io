@@ -2,7 +2,7 @@
 title: "Development and Application of Multiscale Modelling Techniques for Biochemical Processes"
 collection: publications
 permalink: /publication/PhD_thesis
-excerpt: 'Complete PhD thesis written in partial fulfilment of the requirements to obtain the degree Doctor of Science: General Track'
+excerpt: 'Complete PhD thesis written in partial fulfilment of the requirements to obtain the degree Doctor of Science.'
 date: 2024-09-30
 venue: 'KU Leuven'
 paperurl: 'http://NeilMcFarlane-gh.github.io/files/NRM_PhD_thesis.pdf'
