@@ -21,6 +21,11 @@ Carbon.*
 
 Professional experience
 ======
+* 03/2025 - *present*: Data Engineer, Marlinks
+  * Data engineer focused on **implementation, development, and improvement of fibre optic distributed acoustic sensing** Marlinks products. 
+  * Primary role is **algorithm development** using **classical statistics and machine learning** models. 
+  * Customer communication and follow-up with the goal of **improving Marlinks’ products** with customer feedback
+
 * 02/2024 - 09/2024: Computational Consultant, NeoSome Life Sciences
   * Performed **substrate-enzyme docking** and **molecular dynamics studies** on novel drug compounds, **increasing drug binding affinity by up to 50%**.
   * Collaboration with experimental data to characterise the most promising drug candidates.
