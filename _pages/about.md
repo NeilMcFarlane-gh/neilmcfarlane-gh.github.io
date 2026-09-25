@@ -7,9 +7,11 @@ redirect_from:
   - /about.html
 ---
 
-Thanks for visiting my website! I am Neil, and I am currently working as a Data Engineer in the renewables sector at Marlinks. I am a big believer in sustainable energy solutions for the future of our planet. Working in this sector allows me to contribute directly to the transition towards cleaner energy. I am driven by the opportunity to innovate and apply data-driven approaches that can optimize renewable energy systems and make a tangible impact on society.
+Thanks for visiting my website! I'm Neil, a computational (bio)chemist with a background in both academic research and industry software development.
 
-In addition to my current role, I have developed expertise across a wide range of fields, including data science, chemistry, biochemistry, structural biology, bioinformatics, chemical engineering, mathematics, and software development. This multidisciplinary background enables me to approach complex problems from multiple perspectives. My experience in renewables has further strengthened my commitment to leveraging technology and scientific knowledge to build a more sustainable and resilient future for everyone.
+My PhD research focused on computational chemistry and biochemistry, and my work has been published in several journals including Phys. Chem. Chem. Phys., Faraday Discussions, and ACS Physical Chemistry Au. Besides the science, I've always been fascinated by building the tools behind it: writing code, automating workflows, and turning research methods into something others can use.
+
+I'm driven by applying computational and data-driven approaches to problems that make a real difference, whether that's accelerating drug discovery or supporting the transition to cleaner energy. Since background spans chemistry, structural biology, bioinformatics, mathematics, and software development, I am able to bridge the gap between scientific questions and the required tools needed to answer them.
 
 
 
